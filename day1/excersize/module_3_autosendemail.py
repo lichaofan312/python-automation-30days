@@ -76,9 +76,9 @@ if __name__ == "__main__":
     # 1. 邮件服务器配置（以QQ邮箱为例，其他邮箱参考下表）
     SMTP_SERVER = "smtp.qq.com"  # QQ邮箱SMTP服务器
     SMTP_PORT = 465  # QQ邮箱SSL端口
-    SENDER_EMAIL = "571946182@qq.com"  # 你的发件邮箱
+    SENDER_EMAIL = "xxxxxx@qq.com"  # 你的发件邮箱
     # 注意：这里用“邮箱授权码”，不是QQ密码！获取方式：QQ邮箱→设置→账户→开启POP3/SMTP→生成授权码
-    SENDER_PASSWORD = "pqgqwzppvdklbddc"
+    SENDER_PASSWORD = "xxxxxx"
 
     # 2. 客户信息Excel路径（格式：客户姓名、客户邮箱、PDF附件路径）
     root_path = input("请输入客户信息根路径：")  # "客户邮箱列表.xlsx"
