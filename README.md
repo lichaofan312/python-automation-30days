@@ -1,2 +1,15 @@
-# python-automation-30days
-My 30 days Python automation practice projects
+# 30 Days of Python Automation 🚀
+
+记录我用 Python 做的 30 天自动化练手项目。  
+目标：每天完成一个小脚本，最终产出一份作品集。
+
+## 📅 学习计划
+- ✅ Day 01: 从 0 到 1 开发「Excel+PDF + 邮件」
+
+## 📂 项目结构
+每个文件夹一个小项目，包含：
+- `script.py` → 代码
+- `README.md` → 项目说明
+
+## 🔗 进度打卡
+我会每天更新代码和笔记，持续 30 天。
